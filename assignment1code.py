@@ -1,6 +1,7 @@
 # ENSF 692 Spring 2024
 # Assignment 1 Starter Code
 # Add your name here!
+# Jacqui Moreland
 
 studentName = "Jacqui Moreland"  # Change the contents of this variable to your name (leave the quotation marks).
 

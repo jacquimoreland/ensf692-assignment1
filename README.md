@@ -1,3 +1,7 @@
+* Firt name: Jacqui
+* Last name: Moreland
+* Inspirational quote: You miss 100% of the shots you don't take. 
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
@@ -19,7 +23,5 @@
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-* Firt name: Jacqui
-* Last name: Moreland
-* Inspirational quote: You miss 100% of the shots you don't take. 
+
 
