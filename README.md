@@ -1,4 +1,4 @@
-* Firt name: Jacqui
+* First name: Jacqui
 * Last name: Moreland
 * Inspirational quote: You miss 100% of the shots you don't take. 
 
